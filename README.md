@@ -406,40 +406,6 @@ gcc expensetracker.c -o expensetracker
 
 ---
 
-# 📸 Output Screenshots
-
-Add screenshots of the running program here.
-
-Recommended screenshots:
-
-### 1. Dashboard
-
-```markdown
-![Dashboard](screenshots/dashboard.png)
-```
-
-### 2. Adding an Expense
-
-```markdown
-![Add Expense](screenshots/add-expense.png)
-```
-
-### 3. View All Expenses
-
-```markdown
-![View Expenses](screenshots/view-expenses.png)
-```
-
-### 4. Spending Analysis
-
-```markdown
-![Spending Analysis](screenshots/spending-analysis.png)
-```
-
-Create a folder called `screenshots` inside the repository and place the screenshots there using these filenames.
-
----
-
 # 👥 Team Members
 
 | Name | Batch |
