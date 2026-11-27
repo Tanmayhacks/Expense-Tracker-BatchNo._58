@@ -410,11 +410,11 @@ gcc expensetracker.c -o expensetracker
 
 ### Main Menu
 
-![Personal Expense Tracker Main Menu](screenshots/dashboard.png.png)
+![Personal Expense Tracker Main Menu](dashboard.png.png)
 
 ### Add Expense
 
-![Add Expense Output](screenshots/Addexpense.png.png)
+![Add Expense Output](Addexpense.png.png)
 
 ---
 
