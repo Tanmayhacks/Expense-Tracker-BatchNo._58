@@ -412,7 +412,7 @@ gcc expensetracker.c -o expensetracker
 |---|---:|
 | **Shourya Veer Singh** | 58 |
 | **Tanmay Gopera** | 57 |
-| **Vaishnavi** | 58 |
+| **Vaishnavi Barthwal** | 58 |
 
 ---
 
