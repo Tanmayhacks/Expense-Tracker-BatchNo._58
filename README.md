@@ -406,6 +406,18 @@ gcc expensetracker.c -o expensetracker
 
 ---
 
+# 📸 Output Screenshots
+
+### Main Menu
+
+![Personal Expense Tracker Main Menu](screenshots/dashboard.png.png)
+
+### Add Expense
+
+![Add Expense Output](screenshots/Addexpense.png.png)
+
+---
+
 # 👥 Team Members
 
 | Name | Batch |
